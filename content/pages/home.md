@@ -2,17 +2,19 @@
 template: HomePage
 slug: ''
 title: 寿司エンジニアリング
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d'
-subtitle: 'フロントエンジニアの日記とか技術とか'
+featuredImage: 'https://pbs.twimg.com/media/ESZwdIPUMAAW61_?format=jpg&name=medium'
+subtitle: 'フロントエンジニアの日記とか技術とかライフハックとか'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+寿司エンジニアはフリーエンジニアのhisacomの勉学した情報をアウトプットするために作られました。
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+このサイトには[Gatsby](https://gatsbyjs.org)と[Netlify CMS](https://netlifycms.org)の技術が使われています。
 
-# Features
+さらにhisacomに興味がありましたら[Tumblr](https://the-book-dog.tumblr.com)や[note.mu](https://note.com/hisapnam)も訪れてみてください。
+
+# Skills
 
 * **[Gatsby](https://gatsbyjs.org)** static site generator
 * **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
@@ -24,7 +26,3 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 * Instagram feed integration
 
 ## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
