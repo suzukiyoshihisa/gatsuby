@@ -3,7 +3,7 @@ template: SinglePost
 title: タイピング速度向上について
 status: Published
 date: '2020-03-08'
-featuredImage: ''
+featuredImage: 'https://pbs.twimg.com/media/ESmTa2PVAAAMNDh?format=jpg&name=large'
 excerpt: This is an excerpt of Post Two
 categories:
   - category: engineering
